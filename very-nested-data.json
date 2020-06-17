@@ -4,6 +4,7 @@
   "content": "Weeeee",
   "children": [
    "r2_QCE3iV",
+   "EwEM5mvXv",
    "Qm5eeXGEw"
   ]
  },
@@ -11,7 +12,8 @@
   "id": "r2_QCE3iV",
   "content": "Parent A",
   "children": [
-   "eZshFR2JI"
+   "eZshFR2JI",
+   "RjyV3Uau-"
   ]
  },
  "eZshFR2JI": {
@@ -23,12 +25,35 @@
   "id": "Qm5eeXGEw",
   "content": "All",
   "children": [
-   "eZshFR2JI",
-   "wKwkOZbRk"
+   "eZshFR2JI"
   ]
  },
- "wKwkOZbRk": {
-  "id": "wKwkOZbRk",
+ "EwEM5mvXv": {
+  "id": "EwEM5mvXv",
+  "content": "Parent B",
+  "children": [
+   "XHAH9W7cg",
+   "qE83Hqjzc",
+   "hNyYF8z4t"
+  ]
+ },
+ "XHAH9W7cg": {
+  "id": "XHAH9W7cg",
+  "content": "Item A",
+  "children": []
+ },
+ "qE83Hqjzc": {
+  "id": "qE83Hqjzc",
+  "content": "Item B",
+  "children": []
+ },
+ "hNyYF8z4t": {
+  "id": "hNyYF8z4t",
+  "content": "",
+  "children": []
+ },
+ "RjyV3Uau-": {
+  "id": "RjyV3Uau-",
   "content": "Node two",
   "children": []
  }
