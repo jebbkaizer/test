@@ -10,7 +10,7 @@
  },
  "r2_QCE3iV": {
   "id": "r2_QCE3iV",
-  "content": "Parent A",
+  "content": "Node A",
   "children": [
    "eZshFR2JI",
    "RjyV3Uau-"
@@ -38,12 +38,12 @@
  },
  "XHAH9W7cg": {
   "id": "XHAH9W7cg",
-  "content": "Item A",
+  "content": "Child A",
   "children": []
  },
  "qE83Hqjzc": {
   "id": "qE83Hqjzc",
-  "content": "Item B",
+  "content": "Child B",
   "children": []
  },
  "RjyV3Uau-": {
