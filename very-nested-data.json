@@ -33,8 +33,7 @@
   "content": "Parent B",
   "children": [
    "XHAH9W7cg",
-   "qE83Hqjzc",
-   "hNyYF8z4t"
+   "qE83Hqjzc"
   ]
  },
  "XHAH9W7cg": {
@@ -45,11 +44,6 @@
  "qE83Hqjzc": {
   "id": "qE83Hqjzc",
   "content": "Item B",
-  "children": []
- },
- "hNyYF8z4t": {
-  "id": "hNyYF8z4t",
-  "content": "",
   "children": []
  },
  "RjyV3Uau-": {
